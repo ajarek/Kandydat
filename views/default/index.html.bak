@@ -1,0 +1,2 @@
+{{extend 'generic.html'}}
+{{=tabela}}
